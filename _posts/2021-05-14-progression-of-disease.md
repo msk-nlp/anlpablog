@@ -14,7 +14,7 @@ This work originates from the need to gather enough retrospective patient’s da
 Given the objective, we sought to extract signals for PoD from radiology reports using text processing and machine learning methods. We were able to achieve meaningful accuracy and gained insight into which words or n-grams infer PoD.
 
 <p align="center">
-  <img src="https://github.mskcc.org/pages/nguyenh/nlp_blog/assets/img/blog/pod_text_eng.png" alt="drawing" width="600"/>
+  <img src="https://github.com/msk-nlp/anlpablog/blob/main/assets/img/blog/pod_text_eng.png" alt="drawing" width="600"/>
 </p>
 
 We learned valuable lessons from this experiment. First, we gained confidence that NLP could meaningfully detect and leverage signals in radiology report’s free texts; second, text processing steps, such as stop-word removal and lemmatization, should be carefully customized to the healthcare field and radiology conventions. This work has paved ways to many subsequent projects that we are carrying out to unlock the power of free text in EHRs.
