@@ -54,7 +54,7 @@ She has completed her Master’s in Data Science from CUNY School of Professiona
 </div>
 
 <p align="left">
-  <img src="/assets/img/about-priya.jpg" alt="about-priya" width="200"/>
+  <img src="/anlpablog/assets/img/about-priya.jpg" alt="about-priya" width="200"/>
 </p>
 
 
