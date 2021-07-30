@@ -39,7 +39,7 @@ Data Scientist
   <img src="/anlpablog/assets/img/about-gary.jpg" alt="about-gary" width="200"/>
 </p>
 
-Gary is a data scientist in the Applied Data Science and NLP Algorithms team. He completed a master’s degree in Business Analytics from Columbia Engineering. At MSK, He works on both clinical and operational projects. On the operational side, he develops and maintains time-series models to predict institutional activities, budgets and patient volume. On the clinical side, he leverages natural language processing and text analytics to extract insights from radiology reports. 
+Gary is a data scientist in the Applied Data Science and NLP Algorithms team. He completed a master’s degree in Business Analytics from Columbia Engineering. At MSK, He works on both research and operational projects. On the operational side, he develops and maintains time-series models to predict institutional activities, budgets and patient volume. On the research side, he leverages natural language processing and text analytics to extract insights from radiology reports using deep learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin)](https://www.linkedin.com/in/hnguyen1174/)
 
