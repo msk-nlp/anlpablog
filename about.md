@@ -22,7 +22,7 @@ Lior holds an BSc and an MSc in Computer Engineering and has authored multiple p
 Senior Data Scientist
 
 <p align="left">
-  <img src="/anlpablog/assets/img/about-meysam.jpg" alt="about-meysam" width="500"/>
+  <img src="/anlpablog/assets/img/about-meysam.jpg" alt="about-meysam" width="200"/>
 </p>
 
 Meysam Ghaffari is a senior data scientist in the strategy and innovation department at MSK. Before joining MSK, he was a post doctoral research associate at department of medicine and public health in University of Wisconsin-Madison where he worked on designing and applying NLP models for medical domain. He got his Ph.D. in computer science from Florida State University. During his Ph.D. he developed deep learning and NLP methods for public health applications. 
