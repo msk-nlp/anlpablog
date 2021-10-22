@@ -60,7 +60,7 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 16.25rem;
+  max-width: 6.25rem;
   margin: 1rem auto;
   border-width: 0.25rem;
   border-color: inherit;
@@ -264,7 +264,7 @@ img {
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 2200px) {
   .navbar-custom .nav-item.dropdown .dropdown-menu {
     text-align: center;
   }
