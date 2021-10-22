@@ -113,7 +113,7 @@ img {
   margin-top: 1.875rem;
 }
 
-@media (min-width: 1768px) {
+@media (min-width: 768px) {
   .disqus-comments {
     margin-top: 2.5rem;
   }
