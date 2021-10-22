@@ -264,7 +264,7 @@ img {
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
-@media (min-width: 2200px) {
+@media (min-width: 1200px) {
   .navbar-custom .nav-item.dropdown .dropdown-menu {
     text-align: center;
   }
@@ -276,7 +276,7 @@ img {
   }
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 3199px) {
   .navbar-custom .navbar-collapse {
     border-top: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
     margin: 0 -1rem;
