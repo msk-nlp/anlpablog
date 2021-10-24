@@ -311,7 +311,7 @@ img {
   position: absolute;
   left: 45%;
   width: 8.125rem;
-  bottom: -2.50rem;
+  bottom: -2.0rem;
   transition: opacity 0.5s ease-in-out;
   -webkit-transition: opacity 0.5s ease-in-out;
   -moz-transition: opacity 0.5s ease-in-out;
